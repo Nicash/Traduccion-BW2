@@ -120,7 +120,7 @@ Normal
 Fuego
 Agua
 Electrico
-Hierba
+Planta
 Hielo
 Lucha
 Veneno
