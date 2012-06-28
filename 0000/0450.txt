@@ -1,0 +1,733 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+One form
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Normal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Normal Forme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plant Cloak
+Plant Cloak
+
+
+
+
+
+
+
+Overcast Form
+West Sea
+West Sea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rotom
+
+
+
+
+
+
+
+Altered Forme
+
+
+
+
+Land Forme
+Arceus Forme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Default Forme
+
+
+
+
+Normal mode
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spring Forme
+Spring Forme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+けしんフォルム
+けしんフォルム
+
+
+けしんフォルム
+キュレムのすがた
+いつものすがた
+Voice Forme
+ゲノセクトのすがた
+
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+Sunny Form
+Rainy Form
+Snowy Form
+Attack Forme
+Defense Forme
+Speed Forme
+Sandy Cloak
+Trash Cloak
+Sandy Cloak
+Trash Cloak
+Sunshine Form
+East Sea
+East Sea
+Heat Rotom
+Wash Rotom
+Frost Rotom
+Fan Rotom
+Mow Rotom
+Origin Forme
+Sky Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Alternate Forme
+Daruma Mode
+Summer Forme
+Fall Forme
+Winter Forme
+Summer Forme
+Fall Forme
+Winter Forme
+れいじゅうフォルム
+れいじゅうフォルム
+れいじゅうフォルム
+ホワイトキュレム
+ブラックキュレム
+かくごのすがた
+Step Forme
+ゲノセクトのすがた
+ゲノセクトのすがた
+ゲノセクトのすがた
+ゲノセクトのすがた

@@ -1,0 +1,15 @@
+Pokémon
+Status
+Move
+Trainer
+Union
+Greet
+Person
+Lifestyle
+Feeling
+Picture
+Term
+Communication
+Voice
+???
+Quit

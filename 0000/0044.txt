@@ -1,0 +1,50 @@
+Game Sync
+Wi－Fiせってい
+Quit
+ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか?
+Yes
+No
+Saving...\xfffeDon't turn off the power.
+Wi－Fiせっていを　おこないますか?\xfffe（Wi－Fiつうしんを　おこないます）
+ねかしつけている　ところです\xfffeでんげんを　きらないでください
+Game Sync complete.
+ポケモンを\xfffeおこして　よろしいですか?
+ポケモンを　おこしています\xfffeでんげんを　きらないでください
+\xf000Ă\x0001\x0000が　めをさました!
+Please wait a moment.
+\xf000Ă\x0001\x0000は\xfffeスヤスヤ　ねむりはじめた!
+\xf000Ă\x0001\x0000が　めをさました!
+ゲームシンクの　エネルギーぎれです\xfffeじゅうでんまで　1にち　かかります\xf000븁\x0000\xfffeおつかいの　DSほんたいを　かえずに\xf000븁\x0000\xfffe1にち　たってから\xfffeもういちど　ゲームシンクをしてください
+You still can't\xfffesee their dreams.
+ポケモンを　おこしますか?
+There are no Pokémon\xfffesleeping in the box.
+It seems you can now\xfffesee their dreams.
+ぜんかい　おくられた　どうぐを\xfffeうけとっていません!\xf000븁\x0000\xfffeポケモンを　おこして　あたらしい\xfffeどうぐが　おくられると\xf000븁\x0000\xfffeぜんかい　おくられた　どうぐは\xfffeきえてしまいます\xf000븁\x0000\xfffeポケモンを\xfffeおこしても　よろしいですか?
+\xf000Ă\x0001\x0000 leveled up\xfffeto Level \xf000ȁ\x0001\x0001.
+Cギアのスキンがかわりました\xfffeミュージカルのえんもくがかわりました\xfffeずかんのスキンがかわりました
+Cギアのスキンがかわりました
+Musical performance changed.
+Pokédex skin changed.
+Cギアのスキンがかわりました\xfffeミュージカルのえんもくがかわりました
+Musical performance changed.\xfffePokédex skin changed.
+Cギアのスキンがかわりました\xfffeずかんのスキンがかわりました
+サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：13201）
+サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：13202）
+つうしんでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：13203）
+つうしんでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：13204）
+サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：13205）
+ごりようの　サービスは\xfffeしゅうりょう　いたしました\xfffe（エラーコード：13206）
+つうしんでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：13207）
+サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：13208）
+つうしんでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：13209）
+サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：13210）
+サーバーが　こんざつ　しています\xfffeせつぞく　に　しっぱいしました\xfffeじかんを　おいて　さいど\xfffeおためしください\xfffe（エラーコード：13211）
+サーバーは　げんざい\xfffeメンテナンスちゅうです\xfffeメンテナンスの　しょうさいは\xfffeポケモングローバルリンクの\xfffeウェブサイトをごらんください\xfffehttp://www.pokemon-gl.com/\xfffe（エラーコード：13212）
+ねかしつけた　ポケモンのゆめを\xfffeインターネットで\xfffeあそぶことが　できます!
+ポケモンのゆめを　あそぶには\xfffeゲームシンクせっていが\xfffeひつよう　です
+ゲームシンクせっていに　ついて\xfffeくわしくは　とりあつかい\xfffeせつめいしょを　ごらんください
+\xf000Ă\x0001\x0000が　めをさました!
+すでに　べつの　ポケモンレポートが\xfffeかかれていますので\xf000븀\x0000\xfffeレポートが　かけません!\xf000븁\x0000\xfffeくわしくは\xfffeとりあつかいせつめいしょを\xf000븀\x0000\xfffeごらんください
+ゲームシンクIDコードを\xfffeはっこうしました\xfffe\xfffeうえのゲームシンクIDコード　は\xfffeゲームかいしじの　タイトルメニュー\xfffeゲームシンクせってい　から\xfffeみなおすことが　できます\xf000븁\x0000
+By going to the Pokémon\xfffeGlobal Link homepage to\xfffechange settings, you can\xfffebetter enjoy Game Sync.\xfffehttp://www.pokemon-gl.com/\xfffeFor details, consult\xfffethe instruction manual.
+ボックスのなかが　いっぱいです!\xf000븁\x0000\xfffeボックスの　ポケモンを　1ぴき\xfffeへらさないと　おこすことができません

@@ -1,0 +1,56 @@
+\xf000Ă\x0001\x0000を　どうする?
+Please Mark
+ほんとうに　にがしますか?
+\xf000Ă\x0001\x0000 released!
+ばいばい　\xf000Ă\x0001\x0000!
+てもちが　いっぱいです!
+たたかうポケモンが　いなくなります!
+このボックスを　どうしますか?
+どのボックスに\xfffeジャンプしますか?
+どのテーマに　しますか?
+どの　かべがみに　しますか?
+ボックスそうさを　つづけますか?
+このボックスは　いっぱいです!
+バッグが　いっぱいです!
+\xf000ĉ\x0001\x0000を　あずかった!
+\xf000ĉ\x0001\x0000を　もたせた!
+ポケモンを　タッチ!
+どのボックスへ　あずける?
+Not holding anything
+♂
+♀
+\xf000ĉ\x0001\x0000を　あずかりますか?
+メールをしまうことは　できません!
+\xf000ĉ\x0001\x0000を　どうしますか?
+\xf000ĉ\x0001\x0000を　しまいますか?
+\xf000ĉ\x0001\x0000を　バッグに　いれた!
+Can't hold an item.
+メールを　はずしてください!
+タマゴを　にがすことは　できません!
+がったいした　キュレムは　にがせません!
+\xf000Ă\x0001\x0000が　もどってきちゃった!
+Huh, It failed...
+タマゴは　どうぐを　もてません!
+マークを　タッチしよう!
+ボックスに　おけます!
+てもちに　くわえることが　できます!
+このボックスは　いっぱいです!
+てもちが　いっぱいです!
+Deposit Pokémon
+Withdraw Pokémon
+Move Pokémon
+Move Items
+Battle Box
+Put to Bed
+メールは　いどうできません!
+\xf000ĉ\x0001\x0000を　もてない!
+メールを　もっています!
+たたかうポケモンが　いなくなります!
+メールは　いどうできません!
+You can't hold mail here
+タマゴは　えらべません!
+\xf000Ă\x0001\x0000を　ねむらせます\xfffeよろしいですか?
+This Pokemon doesn't\xfffelook sleepy.
+ポケモンせんたくを　つづけますか?
+Battle Box has been locked.\xfffePokemon cannot be removed.
+Battle Box has been locked.\xfffeHeld item cannot be changed.
